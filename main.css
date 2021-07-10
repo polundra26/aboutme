@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'anime_font';
+    font-style: normal;
+    font-weight: 400;
+    src: url(anime_font.ttf);
+}
+@font-face {
+    font-family: 'naruto';
+    font-style: normal;
+    font-weight: 400;
+    src: url(naruto.ttf);
+}
+.aboba {
+  color: orange;
+  font-size: 30px;
+  font-family: anime_font;
+}
+.aboba2 {
+  color: #00334c !important;
+  font-size: 25px;
+  font-family: naruto;
+}
