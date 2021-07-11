@@ -14,9 +14,28 @@
   color: orange;
   font-size: 30px;
   font-family: anime_font;
+  bottom: -190px;
+position:relative;
 }
 .aboba2 {
-  color: #00334c !important;
+  color: rgb(255, 255, 255) !important;
   font-size: 25px;
   font-family: naruto;
+  background: rgba(37, 37, 37, 0.8);
+bottom: -200px;
+position:relative;
+}
+  body {
+   background-image: url(pupa.jpg);
+   background-color: #c7c49b; 
+  }
+a {
+  text-decoration: none;
+  color: rgb(255, 217, 0);
+}
+.aboba3 {
+  a {
+    text-decoration: none;
+    color: rgb(255, 93, 220);
+  }
 }
