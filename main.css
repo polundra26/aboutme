@@ -14,15 +14,15 @@
   color: orange;
   font-size: 30px;
   font-family: anime_font;
-  bottom: -190px;
+  bottom: -89px;
 position:relative;
 }
 .aboba2 {
   color: rgb(255, 255, 255) !important;
   font-size: 25px;
   font-family: naruto;
-  background: rgba(37, 37, 37, 0.8);
-bottom: -200px;
+  background: rgba(58, 58, 58, 0.8);
+bottom: -100px;
 position:relative;
 }
   body {
@@ -34,8 +34,8 @@ a {
   color: rgb(255, 217, 0);
 }
 .aboba3 {
-  a {
-    text-decoration: none;
-    color: rgb(255, 93, 220);
-  }
+  color: pink;
+}
+.aboba4 {
+  color: rgb(39, 204, 88);
 }
