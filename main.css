@@ -39,3 +39,6 @@ a {
 .aboba4 {
   color: rgb(39, 204, 88);
 }
+@media screen and (min-width: 1920px) {
+  /* STYLES HERE */
+  }
